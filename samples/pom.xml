@@ -22,6 +22,7 @@
         <module>webserver</module>
         <module>tomcat</module>
         <module>mysql-schema</module>
+        <module>quarkus-plain</module>
     </modules>
 
     <build>
